@@ -1,0 +1,18 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk  # Backup files
+
+# Cargo files
+Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+target/
+# Other
+.DS_Store
+*.log
+*.tmp
+*.swp
